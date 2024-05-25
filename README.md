@@ -35,6 +35,8 @@ GET customers by id: http://localhost:8085/customers/2
 <img width="808" alt="get_customers_id" src="https://github.com/toxicell/JEE_e-bancking_backend/assets/118931084/c5814ee9-0c85-47ca-bcd6-4a05a76d7584">
 
 
+GET ACCOUNTS : http://localhost:8085/accounts
+<img width="764" alt="get_accounts" src="https://github.com/toxicell/JEE_e-bancking_backend/assets/118931084/9859a209-d82d-4f7e-9e03-2eaddab3eaa6">
 
 
 
